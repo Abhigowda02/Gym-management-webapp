@@ -44,6 +44,7 @@ A web-based Gym Management System developed using **PHP**, **MySQL**, and **Boot
   6. Update database credentials in `config.php` if required.
 
 ---
+If you like this project, consider giving it a ⭐️ on GitHub!
 
 - **Author**
   - **Name**: Abhishek A 
